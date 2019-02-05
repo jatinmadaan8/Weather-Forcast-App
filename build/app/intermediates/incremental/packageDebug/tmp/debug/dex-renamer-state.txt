@@ -1,0 +1,4 @@
+#Fri Feb 01 21:19:40 IST 2019
+base.0=/Users/jatin/Me/Development/projects/weather_forecast/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
